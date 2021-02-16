@@ -1,0 +1,54 @@
+body{
+  background-color: #a3ddcb; line-height: 1.25;
+}
+.one{
+  background-color: #ffe3de; padding: 5%; line-height: 2;
+}
+
+.two{
+  padding: 5%; background-color: #a3ddcb;
+}
+
+.third{
+  padding: 5%;
+}
+
+p{
+  color : grey;
+}
+
+h3{
+  color: #ff5e78; padding-bottom: 2%;
+}
+
+h4{
+  color: #03506f; padding-bottom: 1%;
+}
+
+.haha{
+  font-size: 2rem; font-weight: bold;
+}
+
+.two:hover{
+  background-color: #5eaaa8;
+}
+
+.third:hover{
+  background-color: #5eaaa8;
+}
+
+.two p{
+  color:#f6f5f5;
+}
+
+.third p{
+  color:#f6f5f5;
+}
+
+.two h4{
+  color: white;
+}
+
+.third h4{
+  color: white;
+}
